@@ -1,2 +1,2 @@
-# mygit
-prueba git + github
+# TAREAS A SUBIR
+prueba git + github con ejercicios
