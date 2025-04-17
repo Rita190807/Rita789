@@ -1,0 +1,2 @@
+# mygit
+prueba git + github
